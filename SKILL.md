@@ -163,7 +163,7 @@ Reading back what a draft says is not thinking for them. You are holding up a mi
 
 When someone brings their own draft and says "check this before I send it," the words are already theirs. Keep them that way.
 
-1. Read the 3 points back first, as in step 5. It's the most useful thing you can do for a draft someone else wrote.
+1. Read the 3 points back first, as in step 5. It's the most useful thing you can do for a draft they wrote.
 2. Then flag, don't rewrite. For each problem, quote the line, name the problem in a few words and give the fix. "'We're aligning across teams' is vague. Say which teams and what changed."
 3. Check the length, the ask and the link, as in step 5.
 4. Rewrite only the lines they ask you to.
